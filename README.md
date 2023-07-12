@@ -1,3 +1,3 @@
 # OIBSIP email-spam-detection
 
-OASIS INFOBYTE TASKS Data science task-4
+OASIS INFOBYTE TASKS Data Science Task-4
